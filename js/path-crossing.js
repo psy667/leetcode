@@ -13,7 +13,7 @@ export const isPathCrossing = function (path) {
         break;
       case "S":
         y++;
-        break;
+        break
       case "W":
         x--;
         break;
